@@ -1,3 +1,3 @@
-# A Title: a scoping reivew and guide
+# Shapley value explanations for clinical prediction models: a scoping reivew and guide.
 
-This repository contains the supplementary material to the manscript [link to paper].  
+This repository contains the supplementary material to the manscript "Shapley value explanations for clinical prediction models: a scoping review and guide".  
